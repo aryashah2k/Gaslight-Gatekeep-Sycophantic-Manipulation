@@ -189,7 +189,15 @@ algonaut/
 If you use this work, please cite:
 
 ```bibtex
-TBA
+@misc{shah2026gaslightgatekeepv1v3early,
+      title={Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation}, 
+      author={Arya Shah and Vaibhav Tripathi and Mayank Singh and Chaklam Silpasuwanchai},
+      year={2026},
+      eprint={2604.13803},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.13803}, 
+}
 ```
 
 If you use the fMRI data, also cite:
