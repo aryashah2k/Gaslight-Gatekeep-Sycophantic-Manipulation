@@ -3,7 +3,7 @@
 ### Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation
 
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-aryashah00%2FGaslight--Gatekeep--V1--V3-blue)](https://huggingface.co/datasets/aryashah00/Gaslight-Gatekeep-V1-V3)
-[![arXiv](https://img.shields.io/badge/arXiv-TBA-red)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/arXiv-TBA-red)](https://arxiv.org/abs/2604.13803)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green)](https://python.org)
 [![License](https://img.shields.io/badge/License-Apache2.0-yellow)](LICENSE)
 
